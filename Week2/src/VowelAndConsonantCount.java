@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class VowelAndConsonantCount {
     static void countVowelsAndConsonants(String text) {
         int vowels = 0, consonants = 0;
 

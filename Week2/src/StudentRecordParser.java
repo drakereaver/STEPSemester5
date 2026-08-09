@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main1 {
+public class StudentRecordParser {
     static void parseStudentRecord(String csvLine) {
         String[] fields = csvLine.split(",");
 

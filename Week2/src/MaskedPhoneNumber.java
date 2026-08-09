@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main3 {
+public class MaskedPhoneNumber {
     static String maskPhoneNumber(String phone) {
         if (phone.length() != 10)
             return "Invalid phone number";

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main4 {
+public class BankTransaction {
     static String normalizeReference(String raw) {
         raw = raw.trim();
 

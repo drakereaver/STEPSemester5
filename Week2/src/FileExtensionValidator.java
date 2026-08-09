@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main2 {
+public class FileExtensionValidator {
     static String validateFileExtension(String filename) {
         int index = filename.lastIndexOf('.');
 
